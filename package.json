@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/zealer-young/Ethan-gulu/issues"
   },
-  "homepage": "https://github.com/zealer-young/Ethan-gulu#readme"
+  "homepage": "https://github.com/zealer-young/Ethan-gulu#readme",
+  "dependencies": {
+    "vue": "^3.2.31"
+  }
 }
